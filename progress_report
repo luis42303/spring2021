@@ -1,0 +1,32 @@
+# Status Report
+
+#### Your name
+
+Luis Engleton
+
+#### Your section leader's name
+
+Joanne Nicohls
+
+#### Project title
+
+Comicquest
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+So far, we have coded the majority of the game. We have created so that you are able to go along the adventure that we had written out in our script.
+
+#### What have you not done for your project yet?
+
+We are still figuring out how to get pictures. Audio seems unlikely at this point.
+
+#### What problems, if any, have you encountered?
+
+We have tried using different ways to get the picture in the program. I looked at the hurricane lab and saw tkinter was used, but we have not had success with
+this method yet.
+I personally have looked into python pillow and pygame as well, but I have not had success yet. I created a seperate program just to play around with pictures.
+Hopefully, once we gave figured it out, we can make the image appear conditionally. 
