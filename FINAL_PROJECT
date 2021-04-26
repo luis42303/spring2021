@@ -1,6 +1,7 @@
 #ComicQuest by Luis Engleton, Mike D'Antuono, and Khamari Thornton
 #Submitted April 26, 2021
 #Section 4 Joanne Nicohls
+#Link to youtube video: https://youtu.be/bbUTn77LuKw
 
 from tkinter import *
 window = Tk()
